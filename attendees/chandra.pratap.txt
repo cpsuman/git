@@ -397,5 +397,5 @@ Conclusion
 In this tutorial, you learned how to set up a simple and secure monitoring solution which will help you monitor the state of your servers. It can now warn you of problems, and you have the opportunity to plot some graphs based on the obtained data so you can analyze it and plan accordingly.
 
 
-
+%
   
